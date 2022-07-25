@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="EventRepositoryTest" project="log-event-tracker" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.test.demo.repository.EventRepositoryTest" time="0.853" displayname="EventRepositoryTest" uniqueid="[engine:junit-jupiter]/[class:com.test.demo.repository.EventRepositoryTest]">
-    <testcase name="whenFindingEventById_thenCorrect" classname="com.test.demo.repository.EventRepositoryTest" time="0.853" displayname="whenFindingEventById_thenCorrect()" uniqueid="[engine:junit-jupiter]/[class:com.test.demo.repository.EventRepositoryTest]/[method:whenFindingEventById_thenCorrect()]"/>
-  </testsuite>
-</testrun>
