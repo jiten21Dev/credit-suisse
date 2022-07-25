@@ -1,5 +1,4 @@
 ### log-event-tracker
-### Run the project
     In order to run this project, clone the repository or download as zip file on your machine.
     Unzip the file, there are two folders, one log-event-tracker and other is hsqldb.
 ### check DB.
